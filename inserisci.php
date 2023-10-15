@@ -54,6 +54,9 @@
 					<option value="Fastweb">Fastweb</option>
                     <option value="CalcioLu">Calcio</option>
                     <option value="Dazn">Dazn</option>
+					<option value="bolloAuto">Bollo Auto</option>
+					<option value="assicurazioneAuto">Assicurazione Auto</option>
+					<option value="condominio">Condominio</option>
 					<option value="Varie">Varie</option>
 				</select>
 			</div>
@@ -75,8 +78,10 @@
 			<div class="col-sm-10">
 				<select name="pagamento" class="form-control">
 					<option>Modalità pagamento</option>
+					<option value="contanti">Contanti</option>
 					<option value="bonifico">Bonifico</option>
 					<option value="carta">Carta di Credito</option>
+					<option value="addebito">Addebito sul conto</option>
 				</select>
 			</div>
 			</div>
@@ -91,9 +96,9 @@
 			</div>
 			</div>
              <div class="form-group">
-			    <label for="input1" class="col-sm-2 control-label">Importo</label>
+			    <label for="input1" class="col-sm-2 control-label">Note</label>
 			    <div class="col-sm-10">
-			      <input type="text" name="note"  class="form-control" id="input1" placeholder="Importo" />
+			      <input type="text" name="note"  class="form-control" id="input1" placeholder="Note" />
 			    </div>
 			</div>
 			<input type="submit" class="btn btn-primary col-md-2 col-md-offset-10" value="Invia" name="invio"/>
