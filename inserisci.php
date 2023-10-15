@@ -45,8 +45,8 @@
 			<div class="col-sm-10">
 				<select name="bolletta" class="form-control">
 					<option>Bolletta</option>
-					<option value="Enel">Enel</option>
-					<option value="Eni">Eni</option>
+					<option value="Luce">Luce</option>
+					<option value="Gas">Gas</option>
 					<option value="Spazzatura">Spazzatura</option>
 					<option value="Acqua">Acqua</option>
 					<option value="Rangers">Rangers</option>
