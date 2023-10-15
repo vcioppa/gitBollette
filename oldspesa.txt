@@ -1,0 +1,6 @@
+Fastweb|2020-10-25|25,30|bonifico|NO
+Sky|2020-10-31|29,90|bonifico|NO
+Spazzatura|2020-10-25|200|bonifico|SI
+Eni|2020-10-31|125|bonifico|NO
+Acqua|2020-10-31|100|bonifico|fffff
+Enel|2020-10-26|236,38|carta|SI
