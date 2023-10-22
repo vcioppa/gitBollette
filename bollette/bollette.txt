@@ -25,6 +25,6 @@ Rangers|2023-06-01|48.80|bonifico|SI|
 Rangers|2023-07-03|48.80|bonifico|SI|
 Rangers|2023-08-01|48.80|bonifico|SI|
 Rangers|2023-09-01|48.80|bonifico|SI|
-telepass|2023-03-01|43.73|addebito|SI|
 telepass|2023-06-01|108.33|addebito|SI|
 telepass|2023-09-01|143.53|addebito|SI|
+telepass|2023-03-01|43.73|addebito|SI|

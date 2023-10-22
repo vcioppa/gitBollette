@@ -1,4 +1,5 @@
 <?php
+	include("../login/check.php");
     $id = $_GET['id'];
     $id--;
 	
