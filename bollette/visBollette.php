@@ -20,7 +20,7 @@ include("../login/check.php");
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
-      <li><a href="inserisci.php">Inserisci bolletta</a></li>
+      <li><a href="insBolletta.php">Inserisci bolletta</a></li>
 	  <li>Scegli bolletta:</li>
 	</ul>
 	<!--<ul class="nav navbar-nav">
@@ -106,7 +106,7 @@ include("../login/check.php");
 				<td><?php echo "$pagamento"; ?></td>
 				<td><?php echo "$pagato\n"; ?></td>
 				<td><?php echo "$note\n"; ?></td>
-				<td><a href="update.php?id=<?php echo $i; ?>" class="btn btn-primary">Modifica</a> <a href="cancella.php?id=<?php echo $i; ?>" class="btn btn-danger">Cancella</a></td>
+				<td><a href="modBolletta.php?id=<?php echo $i; ?>" class="btn btn-primary">Modifica</a> <a href="cancBolletta.php?id=<?php echo $i; ?>" class="btn btn-danger">Cancella</a></td>
 			</tr>
 			<?php }
             }

@@ -13,7 +13,7 @@ if (isset($_POST["invio"])) {
   if (($trovato)  && ($_POST["passwd"] == trim($password))) {
     //session_register('autorizzato');
     $_SESSION["autorizzato"] = 1;
-    $destinazione = "../bollette/visualizza.php";
+    $destinazione = "../bollette/visBollette.php";
   } else {
     $destinazione = "destroy.php";
   }
