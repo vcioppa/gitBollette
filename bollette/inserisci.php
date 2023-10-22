@@ -16,7 +16,7 @@
 	 
 }
 ?>
-<?php include("check.php"); ?>
+<?php include("../login/check.php"); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,6 +57,7 @@
 					<option value="bolloAuto">Bollo Auto</option>
 					<option value="assicurazioneAuto">Assicurazione Auto</option>
 					<option value="condominio">Condominio</option>
+					<option value="telepass">Telepass</option>
 					<option value="Varie">Varie</option>
 				</select>
 			</div>

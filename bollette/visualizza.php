@@ -1,5 +1,5 @@
 <?php
-include("check.php");
+include("../login/check.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -67,7 +67,7 @@ include("check.php");
 	
     <ul class="nav navbar-nav navbar-right">
       <!--<li><a href="#"><span class="glyphicon glyphicon-user"></span> Registrati </a></li>-->
-      <li><a href="destroy.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+      <li><a href="../login/destroy.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
     </ul>
   </div>
 </nav>
