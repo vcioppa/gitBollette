@@ -8,11 +8,11 @@
      $pagato = filter_var($_POST['pagato'], FILTER_SANITIZE_STRING);
      $note = filter_var($_POST['note'], FILTER_SANITIZE_STRING);
 	 $riga = $bolletta."|".$scadenza."|".$importo."|".$pagamento."|".$pagato."|".$note."\n";
-     $archivio=fopen("bollette.txt", "a+") or die ("Impossibile aprire il archivio");
+     $archivio=fopen("bollette.txt", "a") or die ("Impossibile aprire il archivio");
      $newriga = filter_var($riga, FILTER_SANITIZE_STRING);
 	 fputs($archivio,$newriga);
 	 fclose($archivio);
-	 header('location:visualizza.php');
+	 header('location:visBollette.php');
 	 
 }
 ?>
@@ -45,20 +45,23 @@
 			<div class="col-sm-10">
 				<select name="bolletta" class="form-control">
 					<option>Bolletta</option>
-					<option value="Luce">Luce</option>
-					<option value="Gas">Gas</option>
-					<option value="Spazzatura">Spazzatura</option>
-					<option value="Acqua">Acqua</option>
-					<option value="Rangers">Rangers</option>
-                    <option value="Sky">Sky</option>
-					<option value="Fastweb">Fastweb</option>
-                    <option value="CalcioLu">Calcio</option>
-                    <option value="Dazn">Dazn</option>
+					<option value="luce">Luce</option>
+					<option value="gas">Gas</option>
+					<option value="spazzatura">Spazzatura</option>
+					<option value="acqua">Acqua</option>
+					<option value="rangers">Rangers</option>
+                    <option value="internet">Internet</option>
+                    <option value="calcioLu">Calcio</option>
+                    <option value="dazn">Dazn</option>
 					<option value="bolloAuto">Bollo Auto</option>
 					<option value="assicurazioneAuto">Assicurazione Auto</option>
 					<option value="condominio">Condominio</option>
 					<option value="telepass">Telepass</option>
-					<option value="Varie">Varie</option>
+					<option value="legna">Legna</option>
+					<option value="sindacato">Sindacato</option>
+					<option value="interessiCari">interessiCari</option>
+					<option value="interessiNap">interessiNap</option>
+					<option value="varie">Varie</option>
 				</select>
 			</div>
 			</div>
@@ -83,6 +86,7 @@
 					<option value="bonifico">Bonifico</option>
 					<option value="carta">Carta di Credito</option>
 					<option value="addebito">Addebito sul conto</option>
+					<option value="bollettino">Bollettino</option>
 				</select>
 			</div>
 			</div>

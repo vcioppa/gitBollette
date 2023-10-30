@@ -1,7 +1,7 @@
 <?php
 	if(isset($_POST['mod'])){
-		$arc=fopen("spesa.txt","r");
-		$righe=file("spesa.txt");
+		$arc=fopen("bollette.txt","r");
+		$righe=file("bollette.txt");
 		$id=$_POST['id'];
 		$prodotto=$_POST['prodotto'];
 		$categoria=$_POST['categoria'];
@@ -17,15 +17,15 @@
 			}
 		}
 		fclose($arc);
-		$archivio=fopen("spesa.txt", "w+");
+		$archivio=fopen("bollette.txt", "w+");
 		foreach($righe as $key => $riga){
 			fputs($archivio, $riga);
 		}
 		fclose($archivio);
-		header('Location:visualizza.php');
+		header('Location:visBollette.php');
 	} 
 	$id = $_GET['id'];
-	$arc=fopen("spesa.txt","r");
+	$arc=fopen("bollette.txt","r");
 	$i=0;
 	while(!feof($arc)){
 		$i++;
@@ -41,7 +41,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lista della spesa</title>
+	<title>Lista della bollette</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
 	<!-- Latest compiled and minified JavaScript -->
@@ -51,7 +51,7 @@
 <div class="container">
 	<div class="row">
 <form action='' method="post" class="form-horizontal col-md-6 col-md-offset-3">
-	<h2>Aggiornamento lista della spesa</h2>
+	<h2>Aggiornamento lista della bollette</h2>
 	<input type="hidden" name="id" value="<?php echo $id ?>">
 	<div class="form-group">
 	    <label for="input1" class="col-sm-2 control-label">Prodotto</label>
