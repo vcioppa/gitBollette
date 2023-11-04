@@ -51,10 +51,8 @@
 					<option value="acqua">Acqua</option>
 					<option value="rangers">Rangers</option>
                     <option value="internet">Internet</option>
-                    <option value="martina">Martina</option>
-					<option value="gabriele">Gabriele</option>
-					<option value="luciano">Luciano</option>
-					<option value="dazn">Dazn</option>
+                    <option value="calcioLu">Calcio</option>
+                    <option value="dazn">Dazn</option>
 					<option value="bolloAuto">Bollo Auto</option>
 					<option value="assicurazioneAuto">Assicurazione Auto</option>
 					<option value="condominio">Condominio</option>
@@ -63,7 +61,7 @@
 					<option value="sindacato">Sindacato</option>
 					<option value="interessiCari">interessiCari</option>
 					<option value="interessiNap">interessiNap</option>
-					<option value="manutenzione">Manutenzione casa</option>
+					<option value="varie">Varie</option>
 				</select>
 			</div>
 			</div>
@@ -89,7 +87,6 @@
 					<option value="carta">Carta di Credito</option>
 					<option value="addebito">Addebito sul conto</option>
 					<option value="bollettino">Bollettino</option>
-					<option value="mavRav">MAV/RAV</option>
 				</select>
 			</div>
 			</div>

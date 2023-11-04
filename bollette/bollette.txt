@@ -1,21 +1,17 @@
-calcioLu|2023-10-13|75|contanti|SI|Iscrizione(€40) + mese ottobre(€35)
+luciano|2023-10-13|75|contanti|SI|Iscrizione(€40) + mese ottobre(€35)
 acqua|2023-05-15|338|bonifico|SI|
-acqua|2022-10-15|260|bonifico|SI|
 acqua|2023-01-31|673|bonifico|SI|
 rangers|2023-10-06|48.80|bonifico|SI|
 bolloAuto|2023-10-09|274.56|bonifico|SI|
 assicurazioneAuto|2023-10-02|36.49|addebito|SI|
-condominio|2023-08-01|374|bonifico|SI|
 luce|2023-09-11|56.10|bonifico|SI|
 luce|2023-07-14|96.55|bonifico|SI|
 luce|2023-05-08|212.09|bonifico|SI|
-condominio|2022-05-31|224|bonifico|SI|
-condominio|2022-11-01|350|bonifico|SI|
 condominio|2023-01-25|484|bonifico|SI|
 condominio|2023-03-15|484|bonifico|SI|
 condominio|2023-05-01|484|bonifico|SI|
 condominio|2023-06-15|374|bonifico|SI|
-calcioLu|2023-09-01|35|bonifico|SI|
+luciano|2023-09-01|35|bonifico|SI|Calcio
 rangers|2023-01-02|48.80|bonifico|SI|
 rangers|2023-02-01|48.80|bonifico|SI|
 rangers|2023-03-01|48.80|bonifico|SI|
@@ -65,3 +61,23 @@ interessiCari|2023-03-30|30.60|addebito|SI|
 interessiCari|2023-02-28|30.66|addebito|SI|
 interessiCari|2023-01-30|30.52|addebito|SI|
 interessiCari|2023-10-30|100.24|addebito|SI|
+interessiNap|2023-09-30|92.70|addebito|SI|
+interessiNap|2023-08-30|93.01|addebito|SI|
+interessiNap|2023-07-31|93.32|addebito|SI|
+interessiNap|2023-06-30|93.63|addebito|SI|
+interessiNap|2023-05-31|93.95|addebito|SI|
+interessiNap|2023-04-30|94.26|addebito|SI|
+interessiNap|2023-03-31|94.57|addebito|SI|
+interessiNap|2023-02-28|94.88|addebito|SI|
+interessiNap|2023-01-31|95.19|addebito|SI|
+luce|2023-10-03|0|Modalità pagamento|NO|4635-4443-5158
+acqua|2023-10-02|0|Modalità pagamento|NO|2837
+luce|2023-11-02|0|Modalità pagamento|NO|4645-4479-5195
+acqua|2023-11-02|0|Modalità pagamento|NO|2863
+condominio|2023-11-02|374|bollettino|SI|
+luce|2023-08-01|73.97|addebito|SI|
+interessiNap|2023-10-31|92.38|addebito|SI|
+manutenzione|2023-10-25|20|contanti|SI|Lavastoviglie Domenico
+manutenzione|2023-11-03|30|contanti|SI|Elettricista Gaetano
+assicurazioneAuto|2023-11-02|36.49|addebito|SI|
+manutenzione|2023-11-03|21|carta|SI|Lampada led cucina
