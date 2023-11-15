@@ -3,32 +3,40 @@
 include("../login/check.php");
 if(!isset($_POST['boll']))
 {
-	$barra= <<< seleziona
-		<!DOCTYPE html>
-		<html>
-		<head>
-			<title>Bollette - elenco</title>
-			<!-- Latest compiled and minified CSS -->
-			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-			<!-- Latest compiled and minified JavaScript -->
-			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
-		</head>
-		<body>
-			<div class="container">
-				<nav class="navbar navbar-default">
-					<div class="container-fluid">
-						<div class="navbar-header">
-							<a class="navbar-brand" href="#">Bollette</a>
-						</div>
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">Home</a></li>
-							<li><a href="insBolletta.php">Inserisci bolletta</a></li>
-							<li>Scegli bolletta:</li>
-						</ul>
-						<form action='' method=post>
-							<ul class="nav navbar-nav">
-								<select name="bolletta" class="form-control">
-				<!--<option>Tutte</option>
+
+$barra= <<< seleziona
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bollette - elenco</title>
+		<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+</head>
+<body>
+<div class="container">
+    <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Bollette</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="insBolletta.php">Inserisci bolletta</a></li>
+	  <li>Scegli bolletta:</li>
+	</ul>
+	<!--<ul class="nav navbar-nav">
+		<li>
+			Scegli bolletta:
+		</li>
+	</ul>-->
+		
+	<form action='' method=post>
+		<ul class="nav navbar-nav">
+		<select name="bolletta" class="form-control">
+					<option>Tutte</option>
 					<option value="luce">Luce</option>
 					<option value="gas">Gas</option>
 					<option value="spazzatura">Spazzatura</option>
@@ -51,18 +59,7 @@ if(!isset($_POST['boll']))
 					<option value="manutenzione">Manutenzione casa</option>
 					<option value="spesa">Spesa</option>
 					<option value="lete">Lete</option>
-					<option value="jeep">Jeep</option>-->
-seleziona;
-	echo $barra;				
-		
-		$vet = file('tipoBolletta.txt');
-		asort($vet);
-		foreach($vet as $chiave => $valore)
-		{
-			$valore=trim($valore);
-			echo "<option value='$valore'>$valore</option>";	
-		}
-		$barra1= <<< seleziona1
+					<option value="jeep">Jeep</option>
 				</select>
 			</ul>
 			<ul class="nav navbar-nav">
@@ -90,10 +87,9 @@ seleziona;
 </nav>
 
 
-seleziona1;
-	echo $barra1;
-	
-	$intestazione1= <<< intesta1
+seleziona;
+echo $barra;
+$intestazione = <<< intesta
 	<div class="row">
 		<table class="table">
 			<tr>
@@ -105,15 +101,15 @@ seleziona1;
 				<th>Pagata</th>
 				<th>Note</th>
 			</tr>
-intesta1;
-	echo $intestazione1;
+intesta;
+	echo $intestazione;
 	
 			
 			$arc=fopen("bollette.txt","r");
 			$i=0;
             $totale=0.0;
-			while(!feof($arc))
-			{
+			while(!feof($arc)){
+				
 				$i++;
 				$riga=fgets($arc);
                 if(strlen($riga)!=0)
@@ -131,10 +127,10 @@ intesta1;
 				<td><?php echo "$note\n"; ?></td>
 				<td><a href="modBolletta.php?id=<?php echo $i; ?>" class="btn btn-primary">Modifica</a> <a href="cancBolletta.php?id=<?php echo $i; ?>" class="btn btn-danger">Cancella</a></td>
 			</tr>
-			<?php
+			<?php 
 				$totale=$totale+(float)$importo;	
 				}
-            }			
+            }
 			?>
 			<tr>
 				<td></td>
@@ -149,6 +145,8 @@ intesta1;
 			<?php
             fclose($arc);
 }
+            
+
 else
 
 {

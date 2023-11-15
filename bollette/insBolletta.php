@@ -32,19 +32,11 @@
 	<div class="row" class="col-sm-3">
 		<form method="post" class="form-horizontal col-md-6 col-md-offset-3">
 			<h2>Inserimento bolletta</h2>
-			<!--*<div class="form-group">
-			    <label for="input1" class="col-sm-2 control-label">Nome prodotto</label>
-			    <div class="col-sm-10">
-			      <input type="text" name="prodotto"  class="form-control" id="input1" placeholder="Nome Prodotto" />
-			    </div>
-			</div>-->
-
-			
 			<div class="form-group">
 			<label for="input1" class="col-sm-2 control-label">Bolletta</label>
 			<div class="col-sm-10">
 				<select name="bolletta" class="form-control">
-					<option>Bolletta</option>
+					<!--<option>Bolletta</option>
 					<option value="luce">Luce</option>
 					<option value="gas">Gas</option>
 					<option value="spazzatura">Spazzatura</option>
@@ -64,6 +56,18 @@
 					<option value="interessiCari">interessiCari</option>
 					<option value="interessiNap">interessiNap</option>
 					<option value="manutenzione">Manutenzione casa</option>
+					<option value="spesa">Spesa</option>
+					<option value="lete">Lete</option>
+					<option value="jeep">Jeep</option>-->
+					<?php 
+						$vet = file('tipoBolletta.txt');
+						asort($vet);
+						foreach($vet as $chiave => $valore)
+						{
+							$valore=trim($valore);
+							echo "<option value='$valore'>$valore</option>";	
+						}
+					?>
 				</select>
 			</div>
 			</div>
