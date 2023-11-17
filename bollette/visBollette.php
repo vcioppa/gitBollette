@@ -28,30 +28,7 @@ if(!isset($_POST['boll']))
 						<form action='' method=post>
 							<ul class="nav navbar-nav">
 								<select name="bolletta" class="form-control">
-				<!--<option>Tutte</option>
-					<option value="luce">Luce</option>
-					<option value="gas">Gas</option>
-					<option value="spazzatura">Spazzatura</option>
-					<option value="acqua">Acqua</option>
-					<option value="rangers">Rangers</option>
-                    <option value="sky">Sky</option>
-					<option value="internet">Internet</option>
-                    <option value="martina">Martina</option>
-					<option value="gabriele">Gabriele</option>
-					<option value="luciano">Luciano</option>
-                    <option value="dazn">Dazn</option>
-					<option value="bolloAuto">Bollo Auto</option>
-					<option value="assicurazioneAuto">Assicurazione Auto</option>
-					<option value="condominio">Condominio</option>
-					<option value="telepass">Telepass</option>
-					<option value="legna">Legna</option>
-					<option value="sindacato">Sindacato</option>
-					<option value="interessiCari">interessiCari</option>
-					<option value="interessiNap">interessiNap</option>
-					<option value="manutenzione">Manutenzione casa</option>
-					<option value="spesa">Spesa</option>
-					<option value="lete">Lete</option>
-					<option value="jeep">Jeep</option>-->
+				
 seleziona;
 	echo $barra;				
 		
@@ -70,7 +47,7 @@ seleziona;
 			</ul>
 			<ul class="nav navbar-nav">
 				<select name="anno" class="form-control">
-					<option>Tutti</option>
+					<!--<option>Tutti</option>-->
 					<option value="2023">2023</option>
 					<option value="2022">2022</option>
 				</select>

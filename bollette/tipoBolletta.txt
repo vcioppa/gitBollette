@@ -20,3 +20,5 @@ InteressiCari
 Spesa
 Citroen C1
 Intro
+Michela
+Ricarica

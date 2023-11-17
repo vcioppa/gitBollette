@@ -117,3 +117,18 @@ Jeep|2023-02-02|36.49|addebito|SI|Assicurazione
 Jeep|2023-01-02|36.49|addebito|SI|Assicurazione
 Martina|2023-11-15|20|contanti|SI|
 Manutenzione|2023-11-15|20|contanti|SI|Mario Rubinetto cucina
+Dazn|2023-09-01|40|addebito|SI|
+Dazn|2023-10-01|40|addebito|SI|
+Dazn|2023-11-01|40|addebito|SI|
+Gabriele|2023-11-16|20|contanti|SI|
+Manutenzione|2023-11-15|30|contanti|SI|Rubinetto cucina
+Michela|2023-11-16|20|contanti|SI|
+Spesa|2023-11-16|4.50|contanti|SI|detersivi
+Ricarica|2023-11-16|10|carta|SI|Enzo
+Spesa|2023-11-16|24.50|carta|SI|Pizza
+Dazn|2023-05-01|25|addebito|SI|
+Dazn|2023-02-01|25|addebito|SI|
+Dazn|2023-03-01|25|addebito|SI|
+Dazn|2023-04-01|25|addebito|SI|
+Dazn|2023-01-01|25|addebito|SI|
+Ricarica|2023-11-17|11|carta|SI|Spotify
