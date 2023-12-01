@@ -132,3 +132,41 @@ Dazn|2023-03-01|25|addebito|SI|
 Dazn|2023-04-01|25|addebito|SI|
 Dazn|2023-01-01|25|addebito|SI|
 Ricarica|2023-11-17|11|carta|SI|Spotify
+Lete|2023-11-17|10|contanti|SI|
+Jeep|2023-11-18|30|carta|SI|Gasolio
+Spesa|2023-11-18|30|contanti|SI|Pizza
+Spesa|2023-11-19|10|carta|SI|
+Luciano|2023-11-19|5|contanti|SI|
+Martina|2023-11-20|20|contanti|SI|
+Spesa|2023-11-21|6.10|carta|SI|PEC
+Intro|2023-11-21|115|Modalità pagamento|SI|AU
+Spesa|2023-11-21|14|carta|SI|Taglio capelli
+Michela|2023-11-22|20|contanti|SI|
+Gabriele|2023-11-22|20|contanti|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|10|contanti|SI|Paddle
+Luciano|2023-11-22|13|carta|SI|Ricarica
+Spesa|2023-11-23|34|carta|SI|
+Michela|2023-11-24|20|contanti|SI|
+Jeep|2023-11-24|30|carta|SI|Gasolio
+Spesa|2023-11-24|44|contanti|SI|Pizza
+Luciano|2023-11-25|5|contanti|SI|
+Legna|2023-11-25|110|contanti|SI|
+Spesa|2023-11-26|21|contanti|SI|
+Spesa|2023-11-26|6|contanti|SI|bollette
+Jeep|2023-11-26|8|contanti|SI|lavaggio
+Internet|2023-11-27|26.95|addebito|SI|
+Ricarica|2023-11-27|8|carta|SI|finder
+Martina|2023-11-27|20|contanti|SI|
+Lete|2023-11-28|10|contanti|SI|
+Spesa|2023-11-28|16.41|carta|SI|
+Spesa|2023-11-28|28|contanti|SI|Pizza
+Intro|2023-11-28|25|contanti|SI|Pietro
+Spesa|2023-11-29|6.50|carta|SI|
+Intro|2023-11-30|7.04|bonifico|SI|GSE
+Spazzatura|2023-11-30|188|addebito|SI|
+InteressiCari|2023-11-30|40.64|addebito|SI|
+Citroen C1|2023-11-30|6|contanti|SI|olio
+Spesa|2023-11-30|11.65|carta|SI|
