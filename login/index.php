@@ -24,13 +24,13 @@ if (isset($_POST["invio"])) {
   // HTML ?>
   <!DOCTYPE HTML>
   <html>
-  <head>
-  <title>Prova Login php</title>
-  <meta name="Generator" content="EditPlus">
-  <meta name="Author" content="">
-  <meta name="Keywords" content="">
-  <meta name="Description" content="">
-  </head>
+	<head>
+		<title>Login</title>
+		<meta name="Generator" content="EditPlus">
+		<meta name="Author" content="">
+		<meta name="Keywords" content="">
+		<meta name="Description" content="">
+	</head>
   <body>
   <form method=post action=''>
     <table width="300" cellpadding="4" cellspacing="1" border="0">

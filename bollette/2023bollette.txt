@@ -1,0 +1,275 @@
+Luciano|2023-10-13|75|contanti|SI|Iscrizione(€40) + mese ottobre(€35)
+Acqua|2023-05-15|338|bonifico|SI|
+Acqua|2023-01-31|673|bonifico|SI|
+Rangers|2023-10-06|48.80|bonifico|SI|
+Jeep|2023-10-09|274.56|bonifico|SI|Bollo
+Jeep|2023-10-02|36.49|addebito|SI|Assicurazione
+Luce|2023-09-11|56.10|bonifico|SI|Mag-giu
+Luce|2023-07-14|96.55|bonifico|SI|Mar-apr
+Luce|2023-05-08|212.09|bonifico|SI|Gen-feb
+Condominio|2023-01-25|484|bonifico|SI|
+Condominio|2023-03-15|484|bonifico|SI|
+Condominio|2023-05-01|484|bonifico|SI|
+Condominio|2023-06-15|374|bonifico|SI|
+Luciano|2023-09-01|35|bonifico|SI|Calcio
+Rangers|2023-01-02|48.80|bonifico|SI|
+Rangers|2023-02-01|48.80|bonifico|SI|
+Rangers|2023-03-01|48.80|bonifico|SI|
+Rangers|2023-04-03|48.80|bonifico|SI|
+Rangers|2023-05-01|48.80|bonifico|SI|
+Rangers|2023-06-01|48.80|bonifico|SI|
+Rangers|2023-07-03|48.80|bonifico|SI|
+Rangers|2023-08-01|48.80|bonifico|SI|
+Rangers|2023-09-01|48.80|bonifico|SI|
+Telepass|2023-06-01|108.33|addebito|SI|
+Telepass|2023-09-01|143.53|addebito|SI|
+Telepass|2023-03-01|43.73|addebito|SI|
+Acqua|2023-11-15|278|bonifico|SI|
+Acqua|2023-08-03|217|carta|SI|
+Varie|2023-10-25|5.80|carta|SI|Assicurazione scuola
+Gas|2023-03-17|106.54|addebito|SI|
+Gas|2023-05-12|32.29|addebito|SI|
+Gas|2023-07-18|92.46|addebito|SI|
+Gas|2023-09-08|67.58|addebito|SI|
+Spazzatura|2023-04-03|188|addebito|SI|
+Spazzatura|2023-04-04|189|addebito|SI|
+Spazzatura|2023-01-31|189|addebito|SI|
+Internet|2023-01-01|26.95|addebito|SI|
+Internet|2023-02-01|26.95|addebito|SI|
+Internet|2023-03-01|26.95|addebito|SI|
+Internet|2023-04-01|26.95|addebito|SI|
+Internet|2023-05-01|26.95|addebito|SI|
+Internet|2023-06-01|26.95|addebito|SI|
+Internet|2023-07-01|26.95|addebito|SI|
+Internet|2023-08-01|26.95|addebito|SI|
+Internet|2023-09-01|26.95|addebito|SI|
+Internet|2023-10-01|26.95|addebito|SI|
+Sindacato|2023-09-01|13.02|addebito|SI|
+Sindacato|2023-06-01|13.02|addebito|SI|
+Sindacato|2023-07-23|13.02|addebito|SI|
+Sindacato|2023-08-23|13.02|addebito|SI|
+Sindacato|2023-10-23|13.02|addebito|SI|
+InteressiCari|2023-10-30|40.65|addebito|SI|
+InteressiCari|2023-09-30|38.82|addebito|SI|
+InteressiCari|2023-08-30|38.90|addebito|SI|
+InteressiCari|2023-07-30|38.85|addebito|SI|
+InteressiCari|2023-06-30|35.30|addebito|SI|
+InteressiCari|2023-05-30|35.37|addebito|SI|
+InteressiCari|2023-04-28|35.28|addebito|SI|
+InteressiCari|2023-03-30|30.60|addebito|SI|
+InteressiCari|2023-02-28|30.66|addebito|SI|
+InteressiCari|2023-01-30|30.52|addebito|SI|
+InteressiCari|2023-10-30|100.24|addebito|SI|
+InteressiNap|2023-09-30|92.70|addebito|SI|
+InteressiNap|2023-08-30|93.01|addebito|SI|
+InteressiNap|2023-07-31|93.32|addebito|SI|
+InteressiNap|2023-06-30|93.63|addebito|SI|
+InteressiNap|2023-05-31|93.95|addebito|SI|
+InteressiNap|2023-04-30|94.26|addebito|SI|
+InteressiNap|2023-03-31|94.57|addebito|SI|
+InteressiNap|2023-02-28|94.88|addebito|SI|
+InteressiNap|2023-01-31|95.19|addebito|SI|
+Luce|2023-10-03|0|Modalità pagamento|NO|4635-4443-5158
+Acqua|2023-10-02|0|Modalità pagamento|NO|2837
+Luce|2023-11-02|0|Modalità pagamento|NO|4645-4479-5195
+Acqua|2023-11-02|0|Modalità pagamento|NO|2863
+Condominio|2023-11-02|374|bollettino|SI|
+Luce|2023-08-01|73.97|addebito|SI|Lug-Ago
+InteressiNap|2023-10-31|92.38|addebito|SI|
+Manutenzione|2023-10-25|20|contanti|SI|Lavastoviglie Domenico
+Manutenzione|2023-11-03|30|contanti|SI|Elettricista Gaetano
+Jeep|2023-11-02|36.49|addebito|SI|Assicurazione
+Manutenzione|2023-11-03|21|carta|SI|Lampada led cucina
+Gabriele|2023-11-03|60|contanti|SI|
+Luciano|2023-11-03|10|contanti|SI|
+Spesa|2023-11-05|79.82|carta|SI|
+Luciano|2023-11-05|20|contanti|SI|
+Gas|2023-11-07|72.25|addebito|SI|
+Spesa|2023-11-07|18|carta|SI|
+Spesa|2023-11-07|30|carta|SI|Abbigliamento
+Luciano|2023-11-07|65|carta|SI|Trasporti
+Luciano|2023-10-01|65|carta|SI|Trasporti
+Gabriele|2023-11-08|20|contanti|SI|
+Luciano|2023-11-08|9|contanti|SI|Infinity
+Rangers|2023-11-08|48.80|contanti|SI|
+Gabriele|2023-11-10|12.09|carta|SI|Scuola
+Gabriele|2023-11-10|20|contanti|SI|Paghetta
+Jeep|2023-11-10|30|carta|SI|Gasolio
+Spesa|2023-11-11|12|carta|SI|
+Gabriele|2023-11-11|10|contanti|SI|
+Gabriele|2023-11-11|20|contanti|SI|
+Luciano|2023-11-11|20|contanti|SI|
+Spesa|2023-11-12|25|contanti|SI|
+Luciano|2023-11-12|340|contanti|SI|Festa compleanno
+Citroen C1|2023-11-01|6|contanti|SI|olio
+Luciano|2023-11-13|5|contanti|SI|
+Jeep|2023-09-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-08-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-07-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-06-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-05-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-04-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-03-02|36.49|addebito|SI|Assicurazione
+Intro|2023-11-14|25|contanti|SI|Pietro
+Spesa|2023-11-14|16.20|carta|SI|deco
+Jeep|2023-02-02|36.49|addebito|SI|Assicurazione
+Jeep|2023-01-02|36.49|addebito|SI|Assicurazione
+Martina|2023-11-15|20|contanti|SI|
+Manutenzione|2023-11-15|20|contanti|SI|Mario Rubinetto cucina
+Dazn|2023-09-01|40|addebito|SI|
+Dazn|2023-10-01|40|addebito|SI|
+Dazn|2023-11-01|40|addebito|SI|
+Gabriele|2023-11-16|20|contanti|SI|
+Manutenzione|2023-11-15|30|contanti|SI|Rubinetto cucina
+Michela|2023-11-16|20|contanti|SI|
+Spesa|2023-11-16|4.50|contanti|SI|detersivi
+Ricarica|2023-11-16|10|carta|SI|Enzo
+Spesa|2023-11-16|24.50|carta|SI|Pizza
+Dazn|2023-05-01|25|addebito|SI|
+Dazn|2023-02-01|25|addebito|SI|
+Dazn|2023-03-01|25|addebito|SI|
+Dazn|2023-04-01|25|addebito|SI|
+Dazn|2023-01-01|25|addebito|SI|
+Ricarica|2023-11-17|11|carta|SI|Spotify
+Lete|2023-11-17|10|contanti|SI|
+Jeep|2023-11-18|30|carta|SI|Gasolio
+Spesa|2023-11-18|30|contanti|SI|Pizza
+Spesa|2023-11-19|10|carta|SI|
+Luciano|2023-11-19|5|contanti|SI|
+Martina|2023-11-20|20|contanti|SI|
+Spesa|2023-11-21|6.10|carta|SI|PEC
+Intro|2023-11-21|115|Modalità pagamento|SI|AU
+Spesa|2023-11-21|14|carta|SI|Taglio capelli
+Michela|2023-11-22|20|contanti|SI|
+Gabriele|2023-11-22|20|contanti|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|11|carta|SI|
+Spesa|2023-11-22|10|contanti|SI|Paddle
+Luciano|2023-11-22|13|carta|SI|Ricarica
+Spesa|2023-11-23|34|carta|SI|
+Michela|2023-11-24|20|contanti|SI|
+Jeep|2023-11-24|30|carta|SI|Gasolio
+Spesa|2023-11-24|44|contanti|SI|Pizza
+Luciano|2023-11-25|5|contanti|SI|
+Legna|2023-11-25|110|contanti|SI|
+Spesa|2023-11-26|21|contanti|SI|
+Spesa|2023-11-26|6|contanti|SI|bollette
+Jeep|2023-11-26|8|contanti|SI|lavaggio
+Internet|2023-11-27|26.95|addebito|SI|
+Ricarica|2023-11-27|8|carta|SI|finder
+Martina|2023-11-27|20|contanti|SI|
+Lete|2023-11-28|10|contanti|SI|
+Spesa|2023-11-28|16.41|carta|SI|
+Spesa|2023-11-28|28|contanti|SI|Pizza
+Intro|2023-11-28|25|contanti|SI|Pietro
+Spesa|2023-11-29|6.50|carta|SI|
+Intro|2023-11-30|7.04|bonifico|SI|GSE
+Spazzatura|2023-11-30|188|addebito|SI|
+InteressiCari|2023-11-30|40.64|addebito|SI|
+Citroen C1|2023-11-30|6|contanti|SI|olio
+Spesa|2023-11-30|11.65|carta|SI|
+Jeep|2023-12-01|30|carta|SI|Gasolio
+Spesa|2023-12-01|11|carta|SI|
+Luciano|2023-12-01|5|contanti|SI|
+Martina|2023-12-01|10|contanti|SI|
+Luciano|2023-12-02|20|contanti|SI|
+Luciano|2023-12-03|20|contanti|SI|
+Martina|2023-12-04|15|carta|SI|Ricarica cell
+Gabriele|2023-12-04|11.65|contanti|SI|
+Luce|2023-12-04|0|contanti|SI|4676 4569 5317
+Acqua|2023-12-04|0|contanti|SI|2882
+Intro|2023-12-04|24|bonifico|SI|Avagnale
+Spesa|2023-12-04|11.65|carta|SI|
+Luciano|2023-12-05|65|carta|SI|Trasporti
+Spesa|2023-12-05|28|carta|SI|Sacchetti folletto
+Spesa|2023-12-05|10|contanti|SI|Telecomando cancello
+Spesa|2023-12-05|3|contanti|SI|
+Gabriele|2023-12-05|20|contanti|SI|
+Gabriele|2023-12-07|10|contanti|SI|
+Michela|2023-12-06|50|contanti|SI|
+Luciano|2023-12-07|35|contanti|SI|Giggino Calcio
+Luciano|2023-12-07|5|contanti|SI|
+Gabriele|2023-12-07|40|contanti|SI|
+Intro|2023-12-07|17.5|bonifico|SI|Deidda Antonio
+Spesa|2023-12-07|10|contanti|SI|
+Spesa|2023-12-08|46|carta|SI|
+Rangers|2023-12-09|48.80|bonifico|SI|
+Sindacato|2023-12-15|30.12|bonifico|SI|
+Jeep|2023-12-15|36.49|Addebito|SI|Assicurazione
+Gabriele|2023-12-07|20|contanti|SI|
+Luciano|2023-12-07|5|contanti|SI|
+Luciano|2023-12-09|30|contanti|SI|Campania
+Spesa|2023-12-09|24|carta|SI|Biglietti Pietrarsa
+Spesa|2023-12-10|27|carta|SI|Pietrarsa panini
+Spesa|2023-12-10|4|contanti|SI|Bollette calcio
+Luciano|2023-12-10|10|contanti|SI|
+Intro|2023-12-11|12|bonifico|NO|ICDL99
+Gabriele|2023-12-11|50|contanti|SI|
+Spesa|2023-12-11|10|carta|SI|panini
+Spesa|2023-12-11|7.19|carta|SI|
+Spesa|2023-12-11|15|carta|SI|
+Intro|2023-12-12|25|contanti|NO|
+Jeep|2023-12-12|90|carta|NO|
+Jeep|2023-12-12|20|carta|SI|Gasolio
+Dazn|2023-12-12|40.99|addebito|SI|
+Spesa|2023-12-12|8|carta|SI|
+Gabriele|2023-12-13|10|contanti|SI|
+Michela|2023-12-14|20|contanti|SI|
+Martina|2023-12-14|20|contanti|SI|
+Luciano|2023-12-14|5|contanti|SI|
+Michela|2023-12-15|20|contanti|SI|
+Legna|2023-12-15|270|contanti|SI|
+Gabriele|2023-12-15|20|contanti|SI|
+Michela|2023-12-15|225|bonifico|SI|IMU
+Tasse|2023-12-15|225|bonifico|SI|IMU
+Spesa|2023-12-15|14.66|carta|SI|
+Spesa|2023-12-15|18|carta|SI|
+Luciano|2023-12-16|10|contanti|SI|
+Jeep|2023-12-17|6|contanti|SI|Lavaggio
+Salute|2023-12-16|96.15|carta|SI|Tutto regolare
+Intro|2023-12-18|89.35|bonifico|SI|AU
+Lete|2023-12-15|10|contanti|SI|
+Spesa|2023-12-18|17.13|carta|SI|
+Luciano|2023-12-19|30|contanti|SI|Stadio Na-fro
+Jeep|2023-12-19|30|carta|SI|Gasolio
+Gabriele|2023-12-20|10|contanti|SI|
+Michela|2023-12-19|35|carta|SI|Regalo di Natale
+Spesa|2023-12-20|17.70|carta|SI|
+Intro|2023-12-20|12|bonifico|SI|Ascia Aurora ICDL
+Spesa|2023-12-21|15|carta|SI|Barbiere
+Regali|2023-12-21|15|carta|SI|Regalo Daniele collega
+Spesa|2023-12-21|25|contanti|SI|Rullo + cialde
+Luciano|2023-12-22|22|carta|SI|Specchietto
+Spesa|2023-12-22|20|carta|SI|Piadine
+Regali|2023-12-22|100|contanti|SI|Figlie Angelo
+Manutenzione|2023-12-22|7|contanti|SI|Collante chimico
+Luce|2023-12-20|57.99|addebito|SI|Sett-Ott
+Regali|2023-12-24|80|contanti|SI|Yuri
+Spesa|2023-12-24|30|carta|SI|carciofi
+Farmaci|2023-12-26|0|Modalità pagamento|Pagato|Annova Martedì
+Telepass|2023-12-26|44.63|addebito|SI|
+Intro|2023-12-27|500|bonifico|SI|Ass. Futura
+Condominio|2023-12-15|340.77|bonifico|NO|Rata n.2 prev. gest. 2023/2024
+Spesa|2023-12-27|14.90|carta|SI|
+Luciano|2023-12-27|20|carta|SI|Specchietto destro
+Lavori elettrici|2023-12-28|0|Modalità pagamento|NO|Interruttore pompa
+Lavori elettrici||0|Modalità pagamento|Pagato|Grill termocamino non gira
+Lavori di tinteggiatura||0|Modalità pagamento|Pagato|Bastone stanzetta Gabriele
+Lavori di tinteggiatura||0|Modalità pagamento|Pagato|citofono piano terra
+Lavori di tinteggiatura||0|Modalità pagamento|Pagato|installare parangoli
+Spesa|2023-12-28|50|carta|SI|
+Spesa|2023-12-28|34|carta|SI|Pizza
+Spesa|2023-12-29|4|contanti|SI|Bollette
+Spesa|2023-12-29|5|carta|SI|Pane
+Gas|2023-12-27|100.54|addebito|SI|
+Intro|2023-12-27|2.16|bonifico|SI|GSE
+Internet|2023-12-27|26.95|addebito|SI|Fastweb
+Jeep|2023-12-30|20|carta|SI|Gasolio
+Intro|2023-12-30|149|contanti|SI|Vincita
+Spesa|2023-12-30|50|carta|SI|
+Luciano|2023-12-30|25|contanti|SI|
+Martina|2023-12-30|20|contanti|SI|
+Gabriele|2023-12-30|20|contanti|SI|
+Jeep|2023-12-31|19|carta|SI|Lampadina
+Casa rurale|2023-12-31||Modalità pagamento|Pagato|Alberi da frutta e galline

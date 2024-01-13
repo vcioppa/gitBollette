@@ -48,6 +48,7 @@ seleziona;
 			<ul class="nav navbar-nav">
 				<select name="anno" class="form-control">
 					<!--<option>Tutti</option>-->
+					<option value="2024">2024</option>
 					<option value="2023">2023</option>
 					<option value="2022">2022</option>
 				</select>
@@ -84,9 +85,14 @@ seleziona1;
 			</tr>
 intesta1;
 	echo $intestazione1;
-	
+	$filename = 'bollette.txt';
+	$curpage='localhost/gitBollette/bollette/insBolletta';
+	if (false === file_exists($filename)) {
+		printf('Il file %s non esiste', $filename);
+		header('Refresh: 3600; url=' . $curpage);
+	}
 			
-			$arc=fopen("bollette.txt","r");
+			$arc=fopen("bollette.txt","r") or die("Non è possibile aprire il file bollette.txt !!! Inserire almeno una bolletta");
 			$i=0;
             $totale=0.0;
 			while(!feof($arc))
