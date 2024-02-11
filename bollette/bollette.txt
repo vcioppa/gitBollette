@@ -20,8 +20,7 @@ Spirito|2024-01-04|0|Modalità pagamento|Pagato|Mindset: comportarsi come se fos
 Cose da comprare|2024-01-04|0|Modalità pagamento|Pagato|Comprare esami ICDL
 Intro|2024-01-04|0|Modalità pagamento|Pagato|Manuel Zona
 Martina|2024-01-04|-15|carta|SI|
-Intro|2024-01-04|25|contanti|NO|MariaGrazia
-Luciano|2024-12-04|-5|contanti|SI|
+Luciano|2024-01-04|-5|contanti|SI|
 Spesa|2024-01-05|-43|carta|SI|Cotoletta
 Spesa|2024-01-05|-54|carta|SI|
 Aff. Milano|2024-01-06|750|bonifico|SI|
@@ -49,3 +48,74 @@ Spesa|2024-01-11|-15.50|carta|SI|Concorso DS
 Crea lavoro|2024-01-11|0|Modalità pagamento|Pagato|temi wordpress
 Condominio|2024-01-12|-340.77|mavRav|SI|
 Spesa|2024-01-12|-10|carta|SI|detersivi
+Martina|2024-10-14|-20|contanti|SI|
+Michela|2024-01-14|-20|carta|SI|Benzina
+Spesa|2024-01-13|-56.18|carta|SI|
+Legna|2024-01-15|-140|contanti|SI|
+Martina|2024-01-15|-30|bonifico|SI|
+Gabriele|2024-01-15|-5|contanti|SI|
+Spesa|2024-01-16|-14.08|carta|SI|
+Spesa|2024-01-16|-16|carta|SI|
+Intro|2024-01-16|25|contanti|SI|Pietro
+Ricarica|2024-01-17|-11|addebito|SI|Enzo
+Intro|2024-01-18|89.35|bonifico|SI|
+Salute|2024-01-17|-14|contanti|SI|Medicina denti
+Spesa|2024-01-17|-48.33|carta|SI|
+Lete|2024-01-14|-5|contanti|SI|
+Luciano|2024-01-18|-40|contanti|SI|
+Salute|2024-01-18|-5|contanti|SI|Dentifricio
+Lete|2024-01-19|-5|contanti|SI|
+Jeep|2024-01-20|-20|carta|SI|Gasolio
+Spesa|2024-01-20|-25|contanti|SI|Nicolina
+Michela|2024-01-17|-5|contanti|SI|
+Jeep|2024-01-21|-40|carta|SI|Gasolio Roma
+Spesa|2024-01-21|-40|carta|SI|Piadine
+Michela|2024-01-21|-10|contanti|SI|Lavaggio C3
+Spesa|2024-01-23|-46.76|carta|SI|sole365
+Luce|2024-01-20|-57.99|addebito|SI|
+Spesa|2024-01-22|-4|contanti|SI|cinesi
+Casa rurale|2024-01-23||Modalità pagamento|Pagato|microgreens
+Luciano|2024-01-24|-20|contanti|SI|
+Luciano|2024-01-24|-35|contanti|SI|Giggino
+Spesa|2024-01-24|-15|contanti|SI|Taglio capelli
+Gabriele|2024-01-24|-10|contanti|SI|
+Spesa|2024-01-25|-28.50|carta|SI|Pizza
+Spesa|2024-01-27|-14|contanti|SI|Torta di mele
+Spesa|2024-01-26|-22.17|carta|SI|
+Luciano|2024-01-26|-25|carta|SI|
+Gabriele|2024-01-27|-10|contanti|SI|
+Casa rurale|2024-01-27|0|Modalità pagamento|Pagato|Noccioleto 8000-10000
+Jeep|2024-01-25|-30|Modalità pagamento|Pagato|gasolio
+Gabriele|2024-01-27|-20|contanti|SI|
+Spesa|2024-01-29|-23.90|carta|SI|
+Spesa|2024-01-30|-28.66|contanti|SI|
+Spazzatura|2024-01-31|-189|bonifico|SI|
+Salute|2024-01-31|-8.40|contanti|SI|
+Luce|2024-01-31|0|contanti|Pagato|4777 4742 5631
+Acqua|2024-01-31|0|Modalità pagamento|Pagato|2913
+Luce|2024-01-31|-154.37|addebito|SI|
+Farmaci|2024-01-31|0|Modalità pagamento|Pagato|5° pillola
+Vestiti|2024-02-01|-115|carta|SI|scarpe blu
+Gabriele|2024-01-31|-10|contanti|SI|
+Luciano|2024-01-30|-20|contanti|SI|
+Vacanze|2024-02-03|-140|contanti|SI|
+Jeep|2024-02-01|-50|carta|SI|Gasolio
+Spesa|2024-02-04|-58.32|carta|SI|
+Luciano|2024-02-05|-10|contanti|SI|
+Gabriele|2024-02-05|-5|contanti|SI|
+Spesa|2024-02-05|-9.82|carta|SI|
+Luce|2024-02-06|0|contanti|Pagato|4813 4759 5659
+Acqua|2024-02-06|0|Modalità pagamento|Pagato|2916
+Gabriele|2024-02-07|-10|contanti|SI|
+Jeep|2024-02-07|-20|carta|SI|
+Rangers|2024-02-08|-48.80|bonifico|SI|
+Spesa|2024-02-07|-17.30|carta|SI|
+Spesa|2024-02-08|-14.29|carta|SI|
+Luciano|2024-02-09|-65|carta|SI|Casella
+Luciano|2024-02-09|-35|contanti|SI|Giggino
+Spesa|2024-02-09|-15|contanti|SI|Pizza
+Farmaci|2024-02-10|0|contanti|NO|Annova 6° pillola
+Spesa|2024-02-11|-36.20|carta|SI|
+Lete|2024-02-09|-10|contanti|SI|
+Spesa|2024-02-10|-19|contanti|SI|
+Spesa|2024-02-11|-7.20|carta|SI|

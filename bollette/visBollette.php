@@ -102,12 +102,14 @@ intesta1;
                 if(strlen($riga)!=0)
                 {
 					list($bolletta1, $scadenza, $importo, $pagamento, $pagato, $note)=explode("|",$riga);
+					$scadenza1=date_create($scadenza);
+					$scad=date_format($scadenza1,"d/m/Y");
 					
             ?>
 			<tr>
 				<td><?php echo "$i"; ?></td>
 				<td><?php echo "$bolletta1"; ?></td>
-                <td><?php echo "$scadenza"; ?></td>
+                <td><?php echo "$scad"; ?></td>
 				<td><?php echo "€ $importo"; ?></td>
 				<td><?php echo "$pagamento"; ?></td>
 				<td><?php echo "$pagato\n"; ?></td>
